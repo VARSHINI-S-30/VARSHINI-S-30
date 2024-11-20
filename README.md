@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate BackEnd Developer from India
 -----------------
 
+Sri Varshini is an undergraduate student in the Department of Computer Science at Sri Ramakrishna Engineering College, Coimbatore. Currently in her second year, she is developing a strong foundation in computer science principles and pursuing her interests in software development.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VARSHINI-S-30&label=Profile%20views&color=0e75b6&style=flat" alt="Sri Varshini S" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VARSHINI-S-30" alt="Sri Varshini S" /></a> </p>
@@ -26,7 +28,7 @@ A Passionate BackEnd Developer from India
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VARSHINI-S-30&show_icons=true&locale=en&layout=compact" alt="Sri Varshini S" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VARSHINI-S-30&show_icons=true&locale=en" alt="Sri Varshini S" /></p>
 
